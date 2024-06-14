@@ -1,5 +1,5 @@
-NAME: VISHWA.J
-ROLL.NO: 230701384
+NAME: Tejushree sanjeevi kumar 
+ROLL.NO: 230701360
 Ex-8: Implementation of Binary Search Tree  
  
 
